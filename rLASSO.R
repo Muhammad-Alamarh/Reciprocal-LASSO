@@ -1,5 +1,5 @@
 # Reciprocal LASSO.
-# variable section>
+# variable section.
 # Song, Q., & Liang, F. (2015). High-Dimensional Variable Selection With Reciprocal L1-
 # Regularization. Journal of the American Statistical Association, 110(512), 1607–1620. http://www.jstor.org/stable/24740172
 library(glmnet)
